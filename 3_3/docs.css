@@ -133,7 +133,7 @@
 .hl-string,
 .hl-number,
 .hl-value {
-    color: #83C283;
+    /*color: #83C283;*/
 }
 
 .hl-keyword {

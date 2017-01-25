@@ -565,8 +565,8 @@ pre {
 
 pre.code,
 pre.programlisting {
-    background-color: #3F3F3F;
-    color: white;
+    /*background-color: #3F3F3F;
+    color: white;*/
 }
 
 pre.screen,
